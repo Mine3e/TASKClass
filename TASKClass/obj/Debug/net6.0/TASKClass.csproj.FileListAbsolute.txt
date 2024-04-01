@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\TASKClass\bin\Debug\net6.0\TASKClass.exe
+C:\Users\hp\source\repos\TASKClass\bin\Debug\net6.0\TASKClass.deps.json
+C:\Users\hp\source\repos\TASKClass\bin\Debug\net6.0\TASKClass.runtimeconfig.json
+C:\Users\hp\source\repos\TASKClass\bin\Debug\net6.0\TASKClass.dll
+C:\Users\hp\source\repos\TASKClass\bin\Debug\net6.0\TASKClass.pdb
+C:\Users\hp\source\repos\TASKClass\obj\Debug\net6.0\TASKClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\TASKClass\obj\Debug\net6.0\TASKClass.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\TASKClass\obj\Debug\net6.0\TASKClass.AssemblyInfo.cs
+C:\Users\hp\source\repos\TASKClass\obj\Debug\net6.0\TASKClass.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TASKClass\obj\Debug\net6.0\TASKClass.dll
+C:\Users\hp\source\repos\TASKClass\obj\Debug\net6.0\refint\TASKClass.dll
+C:\Users\hp\source\repos\TASKClass\obj\Debug\net6.0\TASKClass.pdb
+C:\Users\hp\source\repos\TASKClass\obj\Debug\net6.0\TASKClass.genruntimeconfig.cache
+C:\Users\hp\source\repos\TASKClass\obj\Debug\net6.0\ref\TASKClass.dll
